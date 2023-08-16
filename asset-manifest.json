@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sborkaZavodEnergomash-demo/static/css/main.2199cbd1.css",
+    "main.js": "/sborkaZavodEnergomash-demo/static/js/main.8f0198a7.js",
+    "index.html": "/sborkaZavodEnergomash-demo/index.html",
+    "main.2199cbd1.css.map": "/sborkaZavodEnergomash-demo/static/css/main.2199cbd1.css.map",
+    "main.8f0198a7.js.map": "/sborkaZavodEnergomash-demo/static/js/main.8f0198a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2199cbd1.css",
+    "static/js/main.8f0198a7.js"
+  ]
+}
